@@ -4,7 +4,6 @@ public class MainTest {
 
     public static void main(String[] args){
         System.out.print("master o");
-        System.out.print("master 1");
         System.out.print("dev 3");
     }
 }
